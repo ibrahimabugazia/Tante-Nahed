@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 220" role="img" aria-labelledby="title desc">
+<title id="title">شعار طنط ناهد</title><desc id="desc">طنط ناهد — طعم البيت المصري على أصوله</desc>
+<rect x="6" y="6" width="708" height="208" rx="42" fill="#FBF6ED" stroke="#A65335" stroke-width="7"/>
+<circle cx="104" cy="92" r="54" fill="#A65335"/>
+<path d="M72 83c8-38 67-45 73 9-5-9-15-15-27-15-15 0-27 8-46 6z" fill="#2E231E"/>
+<path d="M72 96c9-14 55-17 66 5v24c-9 18-55 19-66-1z" fill="#F1B78F"/>
+<path d="M86 101c7 5 11 6 17 6M112 107c7 0 12-2 17-7" stroke="#2E231E" stroke-width="4" fill="none" stroke-linecap="round"/>
+<path d="M65 142c16-20 65-21 83 0v20H65z" fill="#566044"/>
+<path d="M50 157c28-10 82-10 111 0v28H50z" fill="#A65335"/>
+<path d="M150 133c17-11 37-4 43 13-12 2-26 4-36-3z" fill="#C99A55"/>
+<path d="M177 126c4-17 16-29 29-35 3 17-4 32-20 42z" fill="#566044"/>
+<path d="M203 83c12 8 17 19 15 33-12-5-19-15-15-33z" fill="#A65335"/>
+<text x="445" y="103" text-anchor="middle" direction="rtl" font-family="Cairo, Arial, sans-serif" font-size="70" font-weight="800" fill="#2E231E">طنط ناهد</text>
+<path d="M287 126 Q445 150 602 126" fill="none" stroke="#A65335" stroke-width="5" stroke-linecap="round"/>
+<text x="445" y="167" text-anchor="middle" direction="rtl" font-family="Cairo, Arial, sans-serif" font-size="27" font-weight="700" fill="#7D3D2B">طعم البيت المصري… على أصوله</text>
+<circle cx="272" cy="156" r="7" fill="#C99A55"/><circle cx="618" cy="156" r="7" fill="#C99A55"/>
+</svg>
